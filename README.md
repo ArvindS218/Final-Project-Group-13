@@ -11,7 +11,7 @@ Description and links to the datasets used:
 
 Individual Analysis notebooks:
 
-    Astalaxmi D -: Folder: Final_Project ; File name: Number_of_Trees.ipynb
+    Astalaxmi D -: Folder: Final Project ; File name: Number_of_Trees.ipynb
     
 A one sentence overview of your repository, meant for someone who is not familiar with the project:
     
