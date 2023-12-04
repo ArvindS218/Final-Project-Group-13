@@ -1,5 +1,5 @@
 # Final-Project-Group-13
-Team name: 
+Team name: Group 13
 
 Team members and their email addresses: 
     
