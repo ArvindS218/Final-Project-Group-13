@@ -9,7 +9,7 @@ Team members and their email addresses:
 Description and links to the datasets used:
     
      Number of trees in each neighbourhood: https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
-     Traffic: 
+     Traffic: https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
      
 
 Individual Analysis notebooks:
