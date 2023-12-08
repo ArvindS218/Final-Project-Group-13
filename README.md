@@ -1,6 +1,8 @@
 # Final-Project-Group-13
 Team name: Group 13
 
+Canvas group number: 13
+
 Team members and their email addresses: 
     
     Astalaxmi D - ASD153@pitt.edu
